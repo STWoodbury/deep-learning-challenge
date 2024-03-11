@@ -29,7 +29,7 @@ The analysis uses past data from funding campaigns ad involves data preprocessin
     <ul>
     <li>Removed Variables: The following were removed from the dataset as they were neither features or targets and did not contribute to the predictive power of the model.</li>
         <ul>
-        <li>EIN: the employer identification number<li>
+        <li>EIN: the employer identification number</li>
         <li>Name: the name of the applicant</li>
         </ul>
     </ul>
