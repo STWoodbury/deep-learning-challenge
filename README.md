@@ -57,6 +57,7 @@ The analysis uses past data from funding campaigns ad involves data preprocessin
         </ul>
     </ul>
 </ul>
+</ul>
 
 ##Summary:
 
