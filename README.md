@@ -37,9 +37,9 @@ The analysis uses past data from funding campaigns ad involves data preprocessin
         <ul>
         <li>Structure: The initial structure was based on the following, as gleaned from research:</li>
             <ul>
-            <li>Input layer: This layer had 38 neurons: 1 for each feature and 1 for bias<li>
+            <li>Input layer: This layer had 38 neurons: 1 for each feature and 1 for bias</li>
             <li>Hidden layer: There was one hidden layer with 25 neurons (2/3 the size of the input layer, plus the entire output layer)
-            <li>Output layer: 1 neuron, chosen due to the binary categorization of the target.<li>
+            <li>Output layer: 1 neuron, chosen due to the binary categorization of the target.</li>
             <li>The activation functions for the input and hidden layers were both relu to allow for non-linear tranformation, and to increase the computational efficiency of the model. The output layer used sigmoid due to the binary categorization of the target</li>
             </ul>
         </ul>
@@ -56,7 +56,7 @@ The analysis uses past data from funding campaigns ad involves data preprocessin
             </ul>
         </ul>
     </ul>
-</Ul>
+</ul>
 
 ##Summary:
 
