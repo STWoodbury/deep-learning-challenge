@@ -17,13 +17,12 @@ The analysis uses past data from funding campaigns ad involves data preprocessin
         <ul>
         <li>Application Type: An internal classification of applications</li>
         <li>Affiliation: The sector or industry of the applicant</li>
-        <li>Classification: the government organization classification<li>
+        <li>Classification: the government organization classification</li>
         <li>Use Case: the use case for the funding</li>
         <li>Organization: The organization type of the applicant</li>
         <li>income amt: the income classification of the applicant</li>
         <li>Special Considerations: special considerations for the application (binary Y or N)</li>
         <li>Ask Amount: funding amount requested (this was found to be uncorrelated and etraneous to the analysis)</li>
-        <li>
         <li>Status: and active status (this was found to be uncorrelated and etraneous to the analysis)</li>
         </ul>
     </ul>
